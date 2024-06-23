@@ -6,7 +6,7 @@ export default function JobRow() {
     <>
       <div className="bg-white p-4 rounded-lg shadow-sm relative">
         <div className='absolute top-2 right-2'>
-          <Heart className='h-4 w-4'/>
+          <Heart className='h-4 w-4 fill-slate-200 stroke-slate-400'/>
         </div>
         <div className='flex grow gap-4 '>
           <div className='content-center'>
